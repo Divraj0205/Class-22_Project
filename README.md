@@ -1,1 +1,2 @@
-# Class-22_Project
+# staticSquare
+A static square made using Matter.js physics engine
